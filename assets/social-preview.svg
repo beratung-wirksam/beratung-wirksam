@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f7f2e8"/>
+  <circle cx="1040" cy="120" r="250" fill="#edf1ed"/>
+  <circle cx="110" cy="590" r="220" fill="#d9e2dc" opacity=".7"/>
+  <text x="110" y="250" font-family="Arial, sans-serif" font-size="96" font-weight="800" letter-spacing="8" fill="#294238">WIRKSAM.</text>
+  <line x1="110" y1="290" x2="430" y2="290" stroke="#7f998b" stroke-width="3"/>
+  <text x="110" y="345" font-family="Arial, sans-serif" font-size="34" fill="#486659">Systemische Beratung</text>
+  <text x="110" y="420" font-family="Georgia, serif" font-size="44" fill="#304b3f">Reden. Sortieren. Weiterkommen.</text>
+  <text x="110" y="505" font-family="Arial, sans-serif" font-size="28" fill="#66706a">Borken · Gemen · online</text>
+</svg>
