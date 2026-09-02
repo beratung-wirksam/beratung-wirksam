@@ -271,6 +271,7 @@ h3 { font-size: 1.35rem; margin-bottom: 10px; }
   letter-spacing: .05em;
 }
 .qualification p { margin: 0; font-size: .93rem; }
+.training-note { margin-top: 18px; font-size: .93rem; }
 
 .section-deep { background: var(--green-900); color: #eff4f0; }
 .section-deep h2 { color: white; }
