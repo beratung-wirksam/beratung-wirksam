@@ -58,6 +58,7 @@ button,a{touch-action:manipulation}
   border:1px solid transparent;font-weight:750;font-size:15px;
   transition:transform .18s ease,box-shadow .18s ease,background .18s ease
 }
+.btn svg{width:20px;height:20px;flex:0 0 20px}
 .btn:hover{transform:translateY(-1px)}
 .btn-primary{background:var(--green);color:#fff;box-shadow:0 10px 24px rgba(53,70,58,.16)}
 .btn-primary:hover{background:var(--green-deep)}
@@ -227,6 +228,7 @@ button,a{touch-action:manipulation}
     display:flex;align-items:center;justify-content:center;gap:8px;text-decoration:none;
     min-height:48px;border-radius:14px;font-weight:800;font-size:14px
   }
+  .mobile-actions svg{width:20px;height:20px;flex:0 0 20px}
   .mobile-actions .wa{background:var(--green);color:#fff}
   .mobile-actions .call{background:var(--sage-light);color:var(--ink)}
 }
