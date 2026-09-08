@@ -210,6 +210,9 @@ button,a{touch-action:manipulation}
   .nav-contact{display:none!important}
   .hero h1{font-size:45px}
   .hero-photo:before{inset:16px -8px -12px 14px}
+  .hero-photo img,.about-photo-wrap img{
+    aspect-ratio:auto;height:auto;object-fit:contain;object-position:center
+  }
   .section{padding:68px 0}
   .section h2{font-size:38px}
   .cards,.steps,.contact-cards{grid-template-columns:1fr}
